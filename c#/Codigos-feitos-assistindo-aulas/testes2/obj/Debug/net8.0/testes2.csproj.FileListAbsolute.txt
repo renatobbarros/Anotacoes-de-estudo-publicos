@@ -1,0 +1,14 @@
+C:\Users\renat\Downloads\testes2\bin\Debug\net8.0\testes2.exe
+C:\Users\renat\Downloads\testes2\bin\Debug\net8.0\testes2.deps.json
+C:\Users\renat\Downloads\testes2\bin\Debug\net8.0\testes2.runtimeconfig.json
+C:\Users\renat\Downloads\testes2\bin\Debug\net8.0\testes2.dll
+C:\Users\renat\Downloads\testes2\bin\Debug\net8.0\testes2.pdb
+C:\Users\renat\Downloads\testes2\obj\Debug\net8.0\testes2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\Downloads\testes2\obj\Debug\net8.0\testes2.AssemblyInfoInputs.cache
+C:\Users\renat\Downloads\testes2\obj\Debug\net8.0\testes2.AssemblyInfo.cs
+C:\Users\renat\Downloads\testes2\obj\Debug\net8.0\testes2.csproj.CoreCompileInputs.cache
+C:\Users\renat\Downloads\testes2\obj\Debug\net8.0\testes2.dll
+C:\Users\renat\Downloads\testes2\obj\Debug\net8.0\refint\testes2.dll
+C:\Users\renat\Downloads\testes2\obj\Debug\net8.0\testes2.pdb
+C:\Users\renat\Downloads\testes2\obj\Debug\net8.0\testes2.genruntimeconfig.cache
+C:\Users\renat\Downloads\testes2\obj\Debug\net8.0\ref\testes2.dll
