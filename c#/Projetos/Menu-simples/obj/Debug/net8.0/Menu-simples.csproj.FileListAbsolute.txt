@@ -1,0 +1,14 @@
+C:\Users\renat\estudos\Menu-simples\obj\Debug\net8.0\Menu-simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\estudos\Menu-simples\obj\Debug\net8.0\Menu-simples.AssemblyInfoInputs.cache
+C:\Users\renat\estudos\Menu-simples\obj\Debug\net8.0\Menu-simples.AssemblyInfo.cs
+C:\Users\renat\estudos\Menu-simples\obj\Debug\net8.0\Menu-simples.csproj.CoreCompileInputs.cache
+C:\Users\renat\estudos\Menu-simples\bin\Debug\net8.0\Menu-simples.exe
+C:\Users\renat\estudos\Menu-simples\bin\Debug\net8.0\Menu-simples.deps.json
+C:\Users\renat\estudos\Menu-simples\bin\Debug\net8.0\Menu-simples.runtimeconfig.json
+C:\Users\renat\estudos\Menu-simples\bin\Debug\net8.0\Menu-simples.dll
+C:\Users\renat\estudos\Menu-simples\bin\Debug\net8.0\Menu-simples.pdb
+C:\Users\renat\estudos\Menu-simples\obj\Debug\net8.0\Menu-simples.dll
+C:\Users\renat\estudos\Menu-simples\obj\Debug\net8.0\refint\Menu-simples.dll
+C:\Users\renat\estudos\Menu-simples\obj\Debug\net8.0\Menu-simples.pdb
+C:\Users\renat\estudos\Menu-simples\obj\Debug\net8.0\Menu-simples.genruntimeconfig.cache
+C:\Users\renat\estudos\Menu-simples\obj\Debug\net8.0\ref\Menu-simples.dll
